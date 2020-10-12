@@ -8,7 +8,7 @@ public class Solution {
     int a = input.nextInt();
     System.out.print("Input the second number: ");
     int b = input.nextInt();
-    int d = (a/b);
-    System.out.println("The division of a and b is:" +d);
+    int m = (a*b);
+    System.out.println("The product of a and b is:" +m);
   }
 }
